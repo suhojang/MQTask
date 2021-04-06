@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<INPUT>
+	<SEEDKEY Value=""/>
+	<SPECIALCODE Value=""/>
+	<MODULE Value=""/>
+	<CERTKEY Value=""/>
+	<DEPARTMENTCODE Value =""/>
+	<JUMIN Value =""/>
+	<NAME Value =""/>
+	<LNCAREANUMBER Value =""/>
+	<LNCYEARNUMBER Value =""/>
+	<LNCSERIALNUMBER Value =""/>
+	<LNCNUMBER Value =""/>
+	<PWDSERIALNUMBER Value =""/>
+	<USERIP Value =""/>
+	<USERPORT Value =""/>
+</INPUT>
+

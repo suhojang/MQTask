@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<INPUT>
+	<SEEDKEY Value=""/>
+	<SPECIALCODE Value=""/>
+	<MODULE Value=""/>
+	<CERTKEY Value=""/>
+	<DEPARTMENTCODE Value =""/>
+	<USERID Value ="xxxxxx"/>
+	<USERPW Value ="xxxxxx"/>
+	<JUMIN Value =""/>
+	<FOREIGNJUMIN Value =""/>
+	<ISSUEDATE Value =""/>
+	<CERTNAME Value =""/>
+	<CERTPWD Value =""/>
+	<USERIP Value =""/>
+	<USERPORT Value =""/>
+</INPUT>

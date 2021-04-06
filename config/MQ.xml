@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<root>
+	<RECORD name="RRNO"				size="13"	desc="주민번호"		/>
+	<RECORD name="PN"				size="40"	desc="성명"			/>
+	<RECORD name="HS_VD_PHC"		size="2"	desc="본인확인경로"		/><!-- 01:주민등록증,02:운전면허증,03:외국인등록증 -->
+	<RECORD name="IDF_NO"			size="44"	desc="신분증번호"		/>
+	<RECORD name="IDF_ISU_BUR_NM"	size="50"	desc="신분증발급기관명"	/>
+	<RECORD name="IDF_SEQ"			size="6"	desc="신분증일련번호"	/>
+	<RECORD name="RNM_CYN"			size="1"	desc="정상진위여부"		/><!-- Y,N -->
+	<RECORD name="RPC"				size="2"	desc="응답코드"		/><!-- 00:정상 -->
+	<RECORD name="IPV6_ADR"			size="39"	desc="사용자IP"			/>
+	<RECORD name="FILLER"			size="53"	desc="공란"			/>
+</root>

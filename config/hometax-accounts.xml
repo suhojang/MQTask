@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<account>
+		<id><![CDATA[ucfdh5aaha+BJM7Dep/ePpCsPk3FWqwYnueq8Aq7NtA=]]></id>
+		<password><![CDATA[FgXEjz+q7IJRpKEXRtw4cER7IihjX9oRzJmLwVkTREs=]]></password>
+	</account>
+
+	<!-- hometax account
+	<account>
+		<id><![CDATA[id]]></id>
+		<password><![CDATA[password]]></password>
+	</account>
+	 -->
+</root>
