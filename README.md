@@ -6,6 +6,7 @@
   
 + ROLE
   + Thread를 활용한 Socket통신, 전문 Parsing 기능 구현
+  + 기관에서 제공하는 MQ Library를 활용하여 MQ 데이터를 추출하고 Parsing하여 Scraping Client Server와 Socket통신 기능 구현
 ```
 git clone https://github.com/suhojang/MQTask.git
 ```
